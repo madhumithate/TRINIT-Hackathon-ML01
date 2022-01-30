@@ -28,7 +28,8 @@
 # 1.Whether you are at LOW/HIGH risk
 # 2.Whether you need take the covid test or not 
 # 3.whether you need hospitalization  
-# 4.It will guide you to some very useful links.
+# 4.Provides a bunch of very useful web resources to guide them even better and to get the best analysis
+
 # Pre requisite questions are asked accordingly.
 
 
@@ -41,3 +42,5 @@
 # The chatbot thus is a friend of all who is always there to clear your doubts
 
 # Please read the main file to see our code.
+
+# LINK FOR VIDEO DEMONSTRATION - https://drive.google.com/file/d/1VXe2pjfev91XDQ239vEpsBATRvJp9cM_/view?ts=61f62cf7
